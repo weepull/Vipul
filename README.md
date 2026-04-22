@@ -13,8 +13,7 @@
 
 ---
 
-### 🔗 Portfolio & Resume  
-**Portfolio:** []
+### 🔗Resume  
 **Resume:** [https://your-resume-link.com](https://drive.google.com/file/d/1BdEaNd29hSoTGtGceumBZm9rTLO0A4hZ/view?usp=sharing)
 ---
 
